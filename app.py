@@ -17,7 +17,7 @@ st.set_page_config(
 # ==============================================================================
 # Get FREE API key: https://www.alphavantage.co/support/#api-key
 # Free tier: 25 API calls per day (perfect for 5 companies)
-ALPHA_VANTAGE_API_KEY = "YOUR_API_KEY_HERE"  # ← LINE 21: Replace with your actual key
+ALPHA_VANTAGE_API_KEY = "OYGO6H3RYSURMH6Q"  # ← LINE 21: Replace with your actual key
 
 # ==============================================================================
 # COMPANY CONFIGURATIONS
